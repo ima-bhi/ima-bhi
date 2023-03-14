@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning **Web Development, AWS Cloud, Data Structure and Algorithm(DSA)**
-- 👨🏻‍🏫 I am Looking for **Internships**
+- 👨🏻‍🏫 I am Looking for **FullTime Opportunities**
 - 🔥  Future goal **Software Developer**
 - 💬 Ask me about **Programming**
 - 📫 How to reach me: abhishekrana201005@gmail.com or [Linkedin](https://www.linkedin.com/in/abhishek-kumar-84b97b145/)
