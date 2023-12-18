@@ -25,8 +25,8 @@
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 ### Stats 📊
 <p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishekkumar201005&show_icons=true" alt="abhishekkumar_stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar201005&layout=compact" alt="abhishekkumar_stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar201005&" alt="abhishekkumar_stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ima-bhi&show_icons=true" alt="abhishekkumar_stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ima-bhi&layout=compact" alt="abhishekkumar_stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ima-bhi&" alt="abhishekkumar_stats"/>
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar201005" alt="Abhishek Kumar Profile visits" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ima-bhi" alt="Abhishek Kumar Profile visits" /></p>
