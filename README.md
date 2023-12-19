@@ -1,9 +1,9 @@
 # Hello, I'm Abhishek Kumar👋
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m learning **Backend Development**
 - 👨🏻‍🏫 I am Working as **Software Developer**
 - 🔥  Future goal **Build Startup**
-- 💬 Ask me about **Backend and DSA**
+- 💬 Ask me about **Backend Dev. and DSA**
 - 📫 How to reach me: abhishekrana201005@gmail.com or [Linkedin](https://www.linkedin.com/in/abhishek-kumar-84b97b145/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact **Love to learn, Think, Implement**
