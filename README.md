@@ -1,6 +1,6 @@
 # Hello, I'm Abhishek Kumar👋
 
-- 🌱 I’m Building **Blockeum - edTech Platform**
+- 🌱 I’m Building **Blockeum - open source edTech Platform**
 - 🌵 I’m Learning **Blockchain**
 - 👨🏻‍🏫 I am Working as **Backend  Developer**
 - 🔥  Future goal **Build Startup**
