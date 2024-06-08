@@ -1,6 +1,6 @@
 # Hello, I'm Abhishek Kumar👋
 
-- 🌱 I’m Building **Blockeum - looking for Contributors **
+- 🌱 I’m Building **Blockeum - looking for Contributors**
 - 🌵 I’m Learning **Blockchain**
 - 👨🏻‍🏫 I am Working as **Backend  Developer**
 - 🔥  Future goal **Build Startup**
