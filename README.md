@@ -1,6 +1,5 @@
 # Hello, I'm Abhishek Kumar👋
 
-- 🌱 I’m Building **Freelance Lead Portal**
 - 🌵 I’m Learning **Blockchain,AWS and System Design**
 - 👨🏻‍🏫 I am Working as **Backend  Developer**
 - 🔥  Future goal **Build Startup**
