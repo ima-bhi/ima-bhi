@@ -1,6 +1,6 @@
 # Hello, I'm Abhishek Kumar👋
 
-- 🌵 I’m Learning **AWS and System Design**
+- 🌵 I’m Learning **DSA,AWS and System Design**
 - 👨🏻‍🏫 I am Working as **Backend  Developer**
 - 🔥  Future goal **Build Startup**
 - 💬 Ask me about **Backend Dev.**
