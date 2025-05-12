@@ -1,8 +1,8 @@
 # Hello, I'm Abhishek Kumar👋
 
-- 🌵 I’m Learning **DSA,AWS and System Design**
+- 🌵 I’m Learning **AWS Lambda and System Design**
 - 👨🏻‍🏫 I am Working as **Backend  Developer**
-- 🔥  Future goal **Build Startup**
+- 🔥  Future goal **Build Scalable Products**
 - 💬 Ask me about **Backend Dev.**
 - 📫 How to reach me: abhishekrana201005@gmail.com or [Linkedin](https://www.linkedin.com/in/abhishek-kumar-84b97b145/)
 - 😄 Pronouns: he/him
