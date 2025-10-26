@@ -1,7 +1,7 @@
 # Hello, I'm Abhishek Kumar👋
 
-- 🌵 I’m learning **AWS Lambda and System Design**
-- 👨🏻‍🏫 I am working as **Backend  Developer**
+- 🌵 I’m learning **DSA and System Design**
+- 👨🏻‍🏫 I am working as **Backend  Developer at finTech**
 - 🔥 Future goal **Build Scalable Products**
 - 💬 Ask me about **Backend Dev.**
 - 📫 How to reach me: abhishekrana201005@gmail.com or [Linkedin](https://www.linkedin.com/in/abhishek-kumar-84b97b145/)
