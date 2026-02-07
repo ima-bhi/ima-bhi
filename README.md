@@ -1,20 +1,22 @@
 # 👋 Hi, I'm Abhishek Kumar
 
-🚀 **Backend Developer | FinTech | Scalable Systems Enthusiast**
+🚀 **Backend Developer | FinTech | Scalable Systems**
 
-I’m a backend-focused developer passionate about building **reliable, scalable, and high-performance systems**.  
-Currently sharpening my skills in **Data Structures, Algorithms, and System Design** while working in the **FinTech domain**.
+I’m a backend-focused developer who enjoys building **reliable, scalable, and high-performance systems**.  
+Currently working in the **FinTech domain**, with a strong focus on **Data Structures, Algorithms, and System Design**.
+
+I care deeply about **clean architecture, performance, and long-term maintainability**.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **DSA & Advanced System Design**
-- 🏦 Working as a **Backend Developer in FinTech**
-- 🧠 Strong interest in **scalability, performance & clean architecture**
-- 💬 Ask me about **Backend Development, APIs, Databases**
-- 🎯 Long-term goal: **Build scalable products that impact millions**
-- ⚡ Fun fact: *I love learning → thinking → implementing*
+- 🌱 Actively improving **DSA & Advanced System Design**
+- 🏦 Working as a **Backend Developer in the FinTech industry**
+- 🧠 Interested in **scalability, performance tuning & system architecture**
+- 💬 Ask me about **Backend Development, APIs, Databases, System Design**
+- 🎯 Long-term goal: **Build scalable products used by millions**
+- ⚡ Fun fact: *I love learning → thinking → implementing → optimizing*
 
 ---
 
@@ -25,16 +27,16 @@ Currently sharpening my skills in **Data Structures, Algorithms, and System Desi
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
 
-### 🌐 Frontend (Basic)
+### 🌐 Frontend (Working Knowledge)
 ![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)
 
 ### 🗄️ Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)
-![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)
 ![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonaws)
 
-### ⚙️ Other Interests
-- REST APIs & Microservices  
+### ⚙️ Engineering Interests
+- RESTful APIs & Microservices  
 - System Design & Architecture  
 - Performance Optimization  
 - Clean Code & Best Practices  
@@ -46,10 +48,6 @@ Currently sharpening my skills in **Data Structures, Algorithms, and System Desi
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sage-six-40.vercel.app/api?username=ima-bhi&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=ima-bhi&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ima-bhi&theme=dark" />
 </p>
 
 ---
